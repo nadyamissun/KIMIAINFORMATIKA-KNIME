@@ -3,7 +3,7 @@
 KNIME adalah platform/alat analisis yang dapat digunakan untuk menganalisis data, memanipulasi data, visualisasi data, membuat laporan, dan lain-lain. Selain itu KNIME juga menyediakan berbagai ekstensi untuk text mining, network mining, Cheminformatics, Deep Learning, dan lain-lain. KNIME juga dapat terintegrasi dengan R, Python, dan bahasa lainnya. 
 Untuk selengkapnya, yuk cek website nya [KNIME](https://www.knime.com/knime-analytics-platform)
 Terdapat lebih dari 1500 node pada KNIME [KNIME Node](https://hub.knime.com/search?type=Node). Pada github ini akan membahas node untuk Kimiainformatika.
-[Rpubs](https://rpubs.com/dwimantara)
+
 
 ### RDKit Salt Stripper
 
