@@ -1,3 +1,5 @@
+![kimfon](https://raw.githubusercontent.com/nadyamissun/KIMIAINFORMATIKA-KNIME/master/gambar.jpg)
+
 # ![Image](https://www.knime.com/files/knime_logo_github_40x40_4layers.png) Platform Analisis, KNIME® 
 
 KNIME adalah platform/alat analisis yang dapat digunakan untuk menganalisis data, memanipulasi data, visualisasi data, membuat laporan, dan lain-lain. Selain itu KNIME juga menyediakan berbagai ekstensi untuk text mining, network mining, Cheminformatics, Deep Learning, dan lain-lain. KNIME juga dapat terintegrasi dengan R, Python, dan bahasa lainnya. 
