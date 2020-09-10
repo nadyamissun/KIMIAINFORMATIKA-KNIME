@@ -1,4 +1,5 @@
 ![kimfon](https://raw.githubusercontent.com/nadyamissun/KIMIAINFORMATIKA-KNIME/master/gambar.jpg)
+Yuk mampir ke [Medium](https://medium.com/@nadyasanul/kemoinformatika-832e63c9a78e) saya
 
 # ![Image](https://www.knime.com/files/knime_logo_github_40x40_4layers.png) Platform Analisis, KNIME® 
 
